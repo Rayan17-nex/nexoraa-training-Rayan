@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
     // added a comment to test the commit functionality
-    fmt.Println("Hello, Nexoraa!")
+    fmt.Println("Hello, World!")
 }
